@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "toggle_weather:load",
+        "toggle_weather:schedule"
+    ]
+}
